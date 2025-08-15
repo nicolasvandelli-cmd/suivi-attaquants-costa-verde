@@ -1,0 +1,1 @@
+// Composant principal à remplacer par le vrai contenu après déploiement
